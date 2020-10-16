@@ -8,7 +8,7 @@ import java.util.*;
  * @version 2016.02.29
  * 
  */
-public class Student
+public class Student extends Coures
 {
     // Attributes
     
